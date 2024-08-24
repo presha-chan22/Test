@@ -15,6 +15,7 @@ namespace SalesOrderForm
         public Form1()
         {
             InitializeComponent();
+            //inialise
         }
     }
 }
